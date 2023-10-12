@@ -8,5 +8,7 @@
 <img src = "https://github.com/nikunjparmar21899/animation_app/assets/121547318/79adec02-2fbd-4cf0-927f-779afad1de19" width = "300">
 
 
+<img src = "https://github.com/nikunjparmar21899/animation_app/assets/121547318/25b18cb0-6739-41d9-8632-fbf69733ac05" width = "300">
+
 
 
