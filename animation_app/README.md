@@ -11,4 +11,7 @@
 <img src = "https://github.com/nikunjparmar21899/animation_app/assets/121547318/0c25b927-88f5-4770-bd4e-00696d5f9457" width = "300">
 
 
+<img src = "https://github.com/nikunjparmar21899/animation_app/assets/121547318/530422ec-d170-4a62-a2dd-8d5f16fdf890" width = "300">
+
+
 
